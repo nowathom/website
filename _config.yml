@@ -1,0 +1,10 @@
+url: "http://www.thomasnowak.net" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+title: "Thomas Nowak" # the name of your site, e.g. ACME Corp.
+
+plugins: ["jekyll/scholar"]
+scholar:
+  style: acm-siggraph
+  bibliography_template: bib
+  sort_by: year,month
+  order: descending

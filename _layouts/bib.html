@@ -1,0 +1,18 @@
+<div class="text-justify">
+    {{reference}}
+    {% if entry.doi %}
+    <span><a href="{{ entry.doi | prepend: 'http://doi.org/' }}">DOI</a></span>
+    {% elsif entry.hal_id %}
+    <span><a href="{{ entry.hal_id | prepend: 'http://hal.inria.fr/' }}">HAL</a></span>
+    {% elsif entry.url %}
+    <span><a href="{{ entry.url }}">URL</a></span>
+    {% endif %}
+</div>
+
+{% if entry.note %}
+<div>
+    <em>{{ entry.note }}</em>
+</div>
+{% endif %}
+
+<!-- <div><pre>{{ entry.bibtex }}</pre></div> -->
