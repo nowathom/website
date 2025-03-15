@@ -16,7 +16,7 @@ Editor
 
 Thomas Nowak  
 ENS Paris-Saclay  
-4, avenue des Sciences
+4, avenue des Sciences  
 91190 Gif-sur-Yvette  
 France  
 
