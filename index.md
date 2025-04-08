@@ -126,7 +126,7 @@ Conferences:
 Teaching
 --------
 
-- Fall 2024: [Computational Bioengineering](https://compioeng.biodis.co/) (with M. Függer)
+- Fall 2024: [Computational Bioengineering](https://compbioeng.biodis.co/) (with M. Függer)
 - Fall 2024: [Initiation to Research: Synthetic Biology](https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-1-36#wg_l1_synthetic_biology_m_fuegger_and_t_nowak)  (with M. Függer)
 - Spring 2025: Advanced Algorithmics (with S. Haddad): [Lecture Notes]({{ site.baseurl }}/assets/files/algo2.pdf)
 
