@@ -54,7 +54,7 @@ Thomas Nowak
 Professor, [ENS Paris-Saclay](https://ens-paris-saclay.fr/)  
 Junior Member, [Institut Universitaire de France](https://www.iufrance.fr/)  
 Head of Biology Group, [Laboratoire Méthodes Formelles](https://lmf.cnrs.fr/)  
-Co-PI, [Cellular Computing Group](https://cellularcomputing.group/)  
+Co-PI, [Cellular Computing Team](https://cellularcomputing.team/)  
 </div>
 </div>
 
