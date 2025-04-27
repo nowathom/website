@@ -147,7 +147,7 @@ Theses
     [PDF](http://pastel.archives-ouvertes.fr/docs/01/06/14/70/PDF/thesis.pdf)
 - *Topology in Distributed Computing*, Master\'s thesis, Vienna
     University of Technology, 2010.  
-    [PDF](https://publik.tuwien.ac.at/files/PubDat_194085.pdf)
+    [PDF](https://repositum.tuwien.at/bitstream/20.500.12708/13126/2/Nowak%20Thomas%20-%202010%20-%20Topology%20in%20Distributed%20Computing.pdf)
 - *Implementation and Evaluation of a Support Vector Machine on an
     8-bit Microcontroller*, Bachelor\'s thesis, Vienna University of
     Technology, 2008.  
