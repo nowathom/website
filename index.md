@@ -117,7 +117,7 @@ Workshops:
 
 Conferences:
 
-- SSS 2018 (PC member), PODC 2019 (Publication Chair), PODC 2020 (PC member), DISC 2020 (PC member), SAND 2023 (PC member), SIROCCO 2023 (PC member), PODC 2024 (PC member), ICDCN 2025 (PC member), SIROCCO 2025 (PC member), SSS 2025 (PC member)
+- SSS 2018 (PC member), PODC 2019 (Publication Chair), PODC 2020 (PC member), DISC 2020 (PC member), SAND 2023 (PC member), SIROCCO 2023 (PC member), PODC 2024 (PC member), ICDCN 2025 (PC member), SIROCCO 2025 (PC member), SSS 2025 (PC member), ISAAC 2025 (PC member), ICDCN 2025 (PC member)
 
 ------------------------------------------------------------------------
 
@@ -126,9 +126,9 @@ Conferences:
 Teaching
 --------
 
-- Fall 2024: [Computational Bioengineering](https://compbioeng.biodis.co/) (with M. Függer)
-- Fall 2024: [Initiation to Research: Synthetic Biology](https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-1-36#wg_l1_synthetic_biology_m_fuegger_and_t_nowak)  (with M. Függer)
-- Spring 2025: Advanced Algorithmics (with S. Haddad): [Lecture Notes]({{ site.baseurl }}/assets/files/algo2.pdf)
+- Fall 2025: [Computational Bioengineering](https://compbioeng.biodis.co/) (with M. Függer)
+- Fall 2025: [Initiation to Research: Synthetic Biology](https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-1-36#wg_l1_synthetic_biology_m_fuegger_and_t_nowak)  (with M. Függer)
+- Spring 2026: Advanced Algorithmics (with S. Haddad): [Lecture Notes]({{ site.baseurl }}/assets/files/algo2.pdf)
 
 ------------------------------------------------------------------------
 
