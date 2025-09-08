@@ -52,9 +52,10 @@ Thomas Nowak
 ============
 
 Professor, [ENS Paris-Saclay](https://ens-paris-saclay.fr/)  
-Junior Member, [Institut Universitaire de France](https://www.iufrance.fr/)  
-Head of Biology Group, [Laboratoire Méthodes Formelles](https://lmf.cnrs.fr/)  
 Co-PI, [Cellular Computing Team](https://cellularcomputing.team/)  
+Head of Biology Group, [Laboratoire Méthodes Formelles](https://lmf.cnrs.fr/)  
+Member, [Institut Universitaire de France](https://www.iufrance.fr/)  
+Member, [National Committee for Scientific Research](https://www.cnrs.fr/comitenational/)  
 </div>
 </div>
 
@@ -172,7 +173,6 @@ Email: [thomas@thomasnowak.net](mailto:thomas@thomasnowak.net)
 [PGP Public Key]({{ site.baseurl }}/assets/files/thomasnowak.asc)  
 
 [LinkedIn](https://www.linkedin.com/in/nowathom)  
-[X](https://x.com/nowathom)  
 
 [Legal Notice](legal.html)
 </div>
