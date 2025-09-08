@@ -117,7 +117,7 @@ Workshops:
 
 Conferences:
 
-- SSS 2018 (PC member), PODC 2019 (Publication Chair), PODC 2020 (PC member), DISC 2020 (PC member), SAND 2023 (PC member), SIROCCO 2023 (PC member), PODC 2024 (PC member), ICDCN 2025 (PC member), SIROCCO 2025 (PC member), SSS 2025 (PC member), ISAAC 2025 (PC member), ICDCN 2025 (PC member)
+- SSS 2018 (PC member), PODC 2019 (Publication Chair), PODC 2020 (PC member), DISC 2020 (PC member), SAND 2023 (PC member), SIROCCO 2023 (PC member), PODC 2024 (PC member), ICDCN 2025 (PC member), SIROCCO 2025 (PC member), SSS 2025 (PC member), ISAAC 2025 (PC member), ICDCN 2026 (PC member)
 
 ------------------------------------------------------------------------
 
