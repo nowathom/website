@@ -90,11 +90,10 @@ Research Interests
 Current Students and Post-Docs
 ----------------------
 
-- Johannes Bund, post-doc (co-supervised with Matthias Függer)
+- Dylan Baumann, PhD student (co-supervised with Matthias Függer and Andreas Steininger)
 - Mariapia D'Urso, PhD student (co-supervised with Matthias Függer)
-- Dhrubajyoti Ghosh, research intern
+- Dhrubajyoti Ghosh, PhD student
 - Alexandra Loudieres, PhD student (co-supervised with Matthias Függer)
-- Suhana Nujum G, research intern (co-supervised with Benedikt Bollig and Matthias Függer)
 - Mélanie Pietri, PhD student (co-supervised with Sakina Bensalem, Matthias Függer, and Bruno Le Pioufle)
 - Kerian Thuillier, post-doc (co-supervised with Benedikt Bollig and Matthias Függer)
 - Zhuofan Xu, PhD student (co-supervised with Benedikt Bollig and Matthias Függer)
