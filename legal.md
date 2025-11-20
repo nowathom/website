@@ -25,11 +25,10 @@ Email: [thomas@thomasnowak.net](mailto:thomas@thomasnowak.net)
 Web Host
 --------
 
-Fastmail Pty Ltd  
-PO Box 234  
-Collins St West  
-Victoria 8007  
-Australia
+GitHub, Inc.  
+88 Colin P Kelly Jr St  
+San Francisco, CA 94107  
+USA  
 
 </div>
 </div>
