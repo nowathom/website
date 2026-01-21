@@ -97,7 +97,6 @@ Current Students and Post-Docs
 - Alexandra Loudieres, PhD student (co-supervised with Matthias Függer)
 - Mélanie Pietri, PhD student (co-supervised with Sakina Bensalem, Matthias Függer, and Bruno Le Pioufle)
 - Kerian Thuillier, post-doc (co-supervised with Benedikt Bollig and Matthias Függer)
-- Zhuofan Xu, PhD student (co-supervised with Benedikt Bollig and Matthias Függer)
 - Paul Zeinaty, PhD student (co-supervised with Benedikt Bollig and Matthias Függer)
 
 ------------------------------------------------------------------------
