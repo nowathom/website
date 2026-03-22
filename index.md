@@ -126,7 +126,7 @@ Teaching
 --------
 
 - Fall 2025: [Computational Bioengineering](https://compbioeng.biodis.co/) (with M. Függer)
-- Fall 2025: [Initiation to Research: Synthetic Biology](https://wikimpri.dptinfo.ens-cachan.fr/doku.php?id=cours:c-1-36#wg_l1_synthetic_biology_m_fuegger_and_t_nowak)  (with M. Függer)
+- Fall 2025: Initiation to Research: Fast Track to Research Writing (with M. Függer)
 - Spring 2026: [Advanced Algorithmics](https://algo2.biodis.co/) (with S. Haddad)
 
 ------------------------------------------------------------------------
